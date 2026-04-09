@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+.env
+*.db
+*.sqlite
+*.sqlite3
+.DS_Store
+*.log
+venv/
+
+# Render
+*.db
+server.log
+
+# Google Calendar - credentials
+credentials.json
+token.json
+temp_creds.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
