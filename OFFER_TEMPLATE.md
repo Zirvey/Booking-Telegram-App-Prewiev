@@ -1,57 +1,55 @@
-Sales Offer Template (EN)
+Шаблон коммерческого предложения (RU)
 
-Product:
-- Telegram Mini App "Booking Bot" for service businesses.
-- Works for coach, psychologist, beauty, consulting, tutoring, and other appointment-based services.
+Продукт:
+- Готовый Telegram Bot + Mini App для записи клиентов.
+- Подходит для тренеров, репетиторов, психологов, мастеров красоты, консультантов и самозанятых.
 
-What client gets:
-- Booking inside Telegram
-- Admin panel for schedule management
-- Subscription packages and single bookings
-- Automatic reminders (24h / 2h)
-- Optional Google Calendar sync
-- Deployment and handover docs
+Что получает клиент:
+- Работающий бот под его бизнес
+- Запись внутри Telegram
+- Админ-панель расписания
+- Абонементы и разовые записи
+- Автонапоминания (24ч / 2ч)
+- Опционально: Google Calendar
+- Запуск на хостинге и передача в работу
 
-Packages:
+Пакеты:
 
-1) Template Only — [PRICE]
-- Source code (private delivery)
-- Setup documentation
-- 7 days bug-fix warranty
+1) Старт — [ЦЕНА]
+- Деплой и подключение бота
+- Базовый брендинг и цены
+- Настройка webhook
+- 7 дней гарантии на исправление багов
 
-2) Template + Setup — [PRICE]
-- Everything from Template Only
-- Deployment to hosting
-- Telegram webhook setup
-- Basic branding and pricing setup
-- 14 days support
+2) Под ключ — [ЦЕНА]
+- Всё из «Старт»
+- Адаптация под нишу
+- Подключение оплаты (если в scope)
+- Google Calendar
+- 14–30 дней поддержки
 
-3) Full White-Label — [PRICE]
-- Everything from Template + Setup
-- Custom UI text and business flow adaptation
-- Payment provider connection (if in scope)
-- Google Calendar setup
-- 30 days support
+3) Индивидуально — [ЦЕНА]
+- Сложные сценарии
+- Дополнительные интеграции
+- Расширенная кастомизация
 
-Timeline:
-- Template Only: 1-2 days
-- Template + Setup: 2-4 days
-- Full White-Label: 4-10 days
+Сроки:
+- Старт: 2–4 дня
+- Под ключ: 4–10 дней
+- Индивидуально: по согласованию
 
-License:
-- One business use license
-- No resale / no redistribution of source code
-- Buyout/exclusive rights available by separate agreement
+Модель:
+- Продаётся готовый сервис (бот в работе), не передача исходного кода
+- Права на платформу остаются у разработчика
+- Клиент получает право использования под свой бизнес
 
-Not included by default:
-- Monthly hosting fees
-- Third-party paid APIs/services
-- Deep custom integrations outside agreed scope
+Не входит по умолчанию:
+- Ежемесячная оплата хостинга
+- Платные сторонние API
+- Интеграции вне согласованного scope
 
-CTA:
-- To start, send:
-  - Business niche
-  - Language
-  - Currency
-  - Your preferred launch date
-
+CTA — для старта клиент присылает:
+- Нишу
+- Язык
+- Валюту
+- Желаемую дату запуска
